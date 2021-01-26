@@ -124,4 +124,3 @@ $("button").click(function(){
 // Chaining allows us to run multiple jQuery methods (on the same element) within a single statement.
 $("#p1").css("color", "red").slideUp(2000).slideDown(2000);
 
-//  Jquery HTML
